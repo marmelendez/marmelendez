@@ -19,11 +19,12 @@
 --- 
 ## :woman_technologist: About Me :
 
-Hi there! I am a Computer Science student from Mexico.
+Hi there! My name is Mar and I am a Computer Science student from Mexico <img src="https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif" width="20"> . 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I am working in a fintech, Woko, as a fullstack developer.
 - :desktop_computer: I am currently taking a web development course
 - 	:fairy_woman: Exploring UI/UX
 - <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="20"> In my free time I like to make clay figures, paint and watch movies!
+- :roller_coaster: Fun fact: I've never been on a roller coaster before
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
@@ -42,3 +43,15 @@ Hi there! I am a Computer Science student from Mexico.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
+
+---
+## :bar_chart: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marmelendez&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmelendez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+## :star2: List of cool Repos!
+- [TravelAPI](https://github.com/marmelendez/travelAPI-)
+- [Python Model](https://github.com/marmelendez/modelado_multiagentes)
+- [Food Bank of Guadalajara App](https://github.com/marmelendez/banco_alimentos)
+- [Java Lexical Analyzer](https://github.com/marmelendez/metodos_computacionales)
