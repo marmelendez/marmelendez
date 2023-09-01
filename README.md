@@ -17,14 +17,13 @@
 </div>
 
 --- 
-## :woman_technologist: About Me :
+## :woman_technologist: Hello world! I'm mar :
 
-Hi there! My name is Mar and I am a Computer Science student from Mexico <img src="https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif" width="20"> . 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> I am working in a fintech, Woko, as a fullstack developer.
-- :desktop_computer: I am currently taking a web development course
-- 	:fairy_woman: Exploring UI/UX
-- <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="20"> In my free time I like to make clay figures, paint and watch movies!
-- :roller_coaster: Fun fact: I've never been on a roller coaster before
+I'm a passionate Computer Science student from Mexico, currently working as a Software Engineer Intern at Microsoft <img src="https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif" width="20"> . 
+- 	:fairy_woman: I enjoy crafting captivating UI designs and developing user-friendly web and Android applications.
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Recently, I've been diving into the world of APIs!
+- <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="20"> Outside of tech, I enjoy crafting clay figures, running, and watching movies and sitcoms.
+- :roller_coaster: Fun fact: I've yet to find the courage to tackle a roller coaster adventure.
 
 ---
 ## :hammer_and_wrench: Languages and Tools :
@@ -55,3 +54,8 @@ Hi there! My name is Mar and I am a Computer Science student from Mexico <img sr
 - [Python Model](https://github.com/marmelendez/modelado_multiagentes)
 - [Food Bank of Guadalajara App](https://github.com/marmelendez/banco_alimentos)
 - [Java Lexical Analyzer](https://github.com/marmelendez/metodos_computacionales)
+
+---
+## 📫 Let's Connect
+
+Feel free to reach out to me via [email](mailto:lizbethmelendez@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maribel-melendezd/) to share experiences, exchange ideas, or just have a chat! 🚀
