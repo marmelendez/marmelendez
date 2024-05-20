@@ -19,8 +19,8 @@
 --- 
 ## :woman_technologist: Hello world! I'm mar :
 
-I'm a passionate Computer Science student from Mexico, currently working as a Software Engineer Intern at Microsoft <img src="https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif" width="20"> . 
-- 	:fairy_woman: I enjoy crafting captivating UI designs and developing user-friendly web and Android applications.
+I'm a Computer Science student from Mexico, currently working as a Software Engineer Intern at Microsoft <img src="https://media.giphy.com/media/TN0kjxBsz3iXm/giphy.gif" width="20"> . 
+- 	:fairy_woman: I enjoy designing UI and developing user-friendly web and Android applications.
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Recently, I've been diving into the world of APIs!
 - <img src="https://media.giphy.com/media/pqStRjJyVEZDapW6EM/giphy.gif" width="20"> Outside of tech, I enjoy crafting clay figures, running, and watching movies and sitcoms.
 - :roller_coaster: Fun fact: I've yet to find the courage to tackle a roller coaster adventure.
